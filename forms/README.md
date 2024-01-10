@@ -17,12 +17,13 @@
     request is to be sent on submitting the form.
 
 2. What is the purpose of the _method_ attribute in the _form_ tag?
- - The method attribute specifies if the request is GET (wants to fetch something from server)
+ - The method attribute specifies if the http request is GET (wants to fetch something from server)
    or POST (wants to send data to server)
 
 3. What is the purpose of the _name_ attribute in the _input_ tag?
  - The name attriubtes allows us to refer to html input tags in 
-   javascript to fetch input data from them.
+   javascript or other scripts to fetch input data from them or 
+   to refer to them.
 
 4. What is the purpose of the _type_ attrbute in the _input_ tag?
  - Type specifies the type of input to be added in the form like
